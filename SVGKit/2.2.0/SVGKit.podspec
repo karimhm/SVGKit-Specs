@@ -1,6 +1,6 @@
 {
   "name": "SVGKit",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "license": "MIT",
   "platforms": {
     "osx": "10.9",
@@ -8,7 +8,7 @@
     "tvos": "9.0"
   },
   "summary": "Display and interact with SVG Images on iOS, using native rendering (CoreAnimation).",
-  "homepage": "https://github.com/karimhm/SVGKit.git",
+  "homepage": "https://github.com/SVGKit/SVGKit",
   "authors": {
     "Steven Fusco": "github@stevenfusco.com",
     "adamgit": "adam.m.s.martin@gmail.com",
@@ -20,7 +20,7 @@
   },
   "source": {
     "git": "https://github.com/karimhm/SVGKit.git",
-    "tag": "2.2.0"
+    "commit": "af9fa17df2ecb235a7f1f3966c610e4fb8404114"
   },
   "source_files": [
     "Source/*.{h,m}",
